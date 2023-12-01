@@ -1,0 +1,1 @@
+/glob/development-tools/versions/oneapi/2024.0/oneapi/compiler/2024.0/bin/icpx  -fsycl  -O2 -g -DNDEBUG CMakeFiles/02_sycl_migrated.dir/Samples/0_Introduction/concurrentKernels/concurrentKernels.dp.cpp.o -o ../bin/02_sycl_migrated  -lsycl 

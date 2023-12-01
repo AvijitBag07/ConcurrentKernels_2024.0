@@ -1,0 +1,6 @@
+/home/u197045/Avijit/oneAPI-samples/DirectProgramming/C++SYCL/guided_concurrentKernels_SYCLMigration/build/CMakeFiles/edit_cache.dir
+/home/u197045/Avijit/oneAPI-samples/DirectProgramming/C++SYCL/guided_concurrentKernels_SYCLMigration/build/CMakeFiles/rebuild_cache.dir
+/home/u197045/Avijit/oneAPI-samples/DirectProgramming/C++SYCL/guided_concurrentKernels_SYCLMigration/build/02_sycl_migrated/CMakeFiles/02_sycl_migrated.dir
+/home/u197045/Avijit/oneAPI-samples/DirectProgramming/C++SYCL/guided_concurrentKernels_SYCLMigration/build/02_sycl_migrated/CMakeFiles/run_sm.dir
+/home/u197045/Avijit/oneAPI-samples/DirectProgramming/C++SYCL/guided_concurrentKernels_SYCLMigration/build/02_sycl_migrated/CMakeFiles/edit_cache.dir
+/home/u197045/Avijit/oneAPI-samples/DirectProgramming/C++SYCL/guided_concurrentKernels_SYCLMigration/build/02_sycl_migrated/CMakeFiles/rebuild_cache.dir
